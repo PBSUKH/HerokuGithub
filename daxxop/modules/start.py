@@ -184,7 +184,7 @@ async def callback_query_handler(_, query):
 
     elif query.data == 'new_callback_data':
         await query.message.edit_media(
-            media=InputMediaVideo("https://graph.org/file/8926caeb4948c47b12080.mp4", has_spoiler=True),
+            media=InputMediaVideo("https://telegra.ph/file/c7e9398f36154ff33db75.mp4", has_spoiler=True),
             reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton(text="๏ ʙᴀᴄᴋ ๏", callback_data="back_help")]
