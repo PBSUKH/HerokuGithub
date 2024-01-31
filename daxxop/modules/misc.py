@@ -85,7 +85,7 @@ async def bot_leave(_, message):
 @app.on_message(filters.command("repo"))
 async def repo(_, message):
     async with httpx.AsyncClient() as client:
-        response = await client.get("https://api.github.com/repos/DAXXTEAM/GITHUB-HEROKU/contributors")
+        response = await client.get("https://api.github.com/repos/Badhacker98/GITHUB-HEROKU/contributors")
     
     if response.status_code == 200:
         users = response.json()
@@ -95,7 +95,7 @@ async def repo(_, message):
             list_of_users += f"{count}. [{user['login']}]({user['html_url']})\n"
             count += 1
 
-        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://github.com/DAXXTEAM/GITHUB-HEROKU) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/HEROKUFREECC)
+        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://github.com/Badhacker98?tab=repositories) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/II_CHAT_HUB_II)
 | 𝖢𝖮𝖭𝖳𝖱𝖨𝖡𝖴𝖳𝖮𝖱𝖲 |
 ----------------
 {list_of_users}"""
@@ -287,7 +287,7 @@ async def close_callback(_, query):
 @app.on_message(filters.command(["github", "git"]))
 async def github(_, message):
     if len(message.command) != 2:
-        await message.reply_text("/git DAXXTEAM")
+        await message.reply_text("/git Badhacker98")
         return
 
     username = message.text.split(None, 1)[1]
