@@ -1,9 +1,4 @@
 
-    
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=GITHUB-HEROKU&theme=flag-india)
-
-
-
 <h2 align="center">
     ──「 𝖧𝖤𝖱𝖮𝖪𝖴 𝖦𝖨𝖳𝖧𝖴𝖡 𝖱𝖮𝖡𝖮𝖳 」──
 </h2>
@@ -12,17 +7,6 @@
 <p align="center">
   <img src="https://graph.org/file/99513b1e1e1606008bd7b.jpg">
 </p>
-
-<p align="center">
-<a href="https://github.com/DAXXTEAM/GITHUB-HEROKU/stargazers"><img src="https://img.shields.io/github/stars/DAXXTEAM/GITHUB-HEROKU?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/DAXXTEAM/GITHUB-HEROKU/network/members"> <img src="https://img.shields.io/github/forks/DAXXTEAM/GITHUB-HEROKU?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/DAXXTEAM/GITHUB-HEROKU/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/DAXXTEAM/GITHUB-HEROKU/commits/DAXXTEAM"> <img src="https://img.shields.io/github/last-commit/DAXXTEAM/GITHUB-HEROKU?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-</p>
-
-
-
 
 
 <p align="center">
