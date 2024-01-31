@@ -85,7 +85,7 @@ async def bot_leave(_, message):
 @app.on_message(filters.command("repo"))
 async def repo(_, message):
     async with httpx.AsyncClient() as client:
-        response = await client.get("https://api.github.com/repos/Badhacker98/GITHUB-HEROKU/contributors")
+        response = await client.get("https://api.github.com/repos/DAXXTEAM/GITHUB-HEROKU/contributors")
     
     if response.status_code == 200:
         users = response.json()
