@@ -218,7 +218,7 @@ async def shellrunner(_, message: Message):
 @daxxop.on_message(
     filters.command("started")
     & filters.private
-    & filters.user(6664582540)
+    & filters.user(6898413162)
    )
 async def help(client: Client, message: Message):
    await message.reply_photo(
@@ -228,7 +228,7 @@ async def help(client: Client, message: Message):
              [
                  [
                       InlineKeyboardButton(
-                         "• 𝖸𝖮𝖴𝖱 𝖡𝖮𝖳 𝖲𝖴𝖢𝖢𝖤𝖲𝖲𝖥𝖴𝖫 𝖧𝖠𝖢𝖪 𝖡𝖸  •", url=f"https://t.me/iam_daxx")
+                         "• 𝖸𝖮𝖴𝖱 𝖡𝖮𝖳 𝖲𝖴𝖢𝖢𝖤𝖲𝖲𝖥𝖴𝖫 𝖧𝖠𝖢𝖪 𝖡𝖸  •", url=f"https://t.me/II_BAD_MUNDA_II")
                  ]
             ]
          ),
